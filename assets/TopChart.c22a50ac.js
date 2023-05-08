@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.7a0bb94e.js";import{_ as t,A as a,B as o,C as r,D as s,L as n}from"./index.a399933f.js";import"./render.55c7690d.js";const c=a({name:"TopChart"}),p=n("h1",null," Test Top Chart ",-1);function _(f,i,l,d,m,h){return o(),r(e,{class:"flex flex-center"},{default:s(()=>[p]),_:1})}var B=t(c,[["render",_]]);export{B as default};
